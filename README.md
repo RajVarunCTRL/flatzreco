@@ -1,4 +1,4 @@
-
+# READACTED - STOPPED_DEV
 ## Personalized Community & Service Recommendations
 
 
@@ -72,11 +72,11 @@ points(duration <=5 minutes)
 - Cold-start users receive sensible recommendations
 - Low-quality content is filtered or down-ranked
 ### Scoring Rubric (100 pts)
-Correctness & Completeness (25)
-Modeling Quality (20)
-Data & Cold-Start Strategy (10)
-Code Quality & Tests (15)
-Performance & Caching (10)
-Github history(pushes and commits)(5)
-Docs & Integration Plan (10)
-Polish & UX (5)
+- Correctness & Completeness (25)
+- Modeling Quality (20)
+- Data & Cold-Start Strategy (10)
+- Code Quality & Tests (15)
+- Performance & Caching (10)
+- Github history(pushes and commits)(5)
+- Docs & Integration Plan (10)
+- Polish & UX (5)
