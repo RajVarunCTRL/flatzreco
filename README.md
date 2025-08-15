@@ -16,10 +16,6 @@ residents. The service must:
 strings,
 5) log user feedback events.
 
-### Time Limit
-
-The last date for the assessment is 16th august(By this weekend) to submit your completed
-work
 ### Scope of Work
 You will design and implement:
 - Data layer (Postgres/SQLite) for users, items, interactions
